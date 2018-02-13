@@ -12,4 +12,4 @@
 - [x] Json.net
 - [x] 百度ORC API
 
-**Demo代码无规范**
+**Demo无代码规范**
